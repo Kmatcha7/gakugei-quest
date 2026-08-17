@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad588e69387684cbfba6dec89c08a930, type: 3}
+  m_Name: ItemData_0001
+  m_EditorClassIdentifier: 
+  itemId: 1
+  itemName: "\u85AC\u8349"
+  itemDesc: "\u4F53\u529B\u3092\u56DE\u5FA9\u3059\u308B\u52B9\u80FD\u306E\u3042\u308B\u8349\u3067\u3059\u3002"
+  itemCategory: 1
+  itemEffect:
+    itemEffectCategory: 1
+    effectTarget: 0
+    value: 30
+  numberOfUse: 1
+  strength: 0
+  guard: 0
+  speed: 0
+  price: 15

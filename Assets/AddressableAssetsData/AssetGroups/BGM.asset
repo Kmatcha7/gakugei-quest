@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BGM
+  m_EditorClassIdentifier: 
+  m_GroupName: BGM
+  m_GUID: 716c82b459fc949ebabebf2d03165102
+  m_SerializeEntries:
+  - m_GUID: 145c0b0b5abb94db9b6252383a0eed74
+    m_Address: Dungeon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a1ef0b37c6a541069ce07bc062a70aa
+    m_Address: Village
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e2685ddf1aaaac418831900cd526b0b
+    m_Address: 3Boss
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 604eaf9de99404799830a7fe115f5225
+    m_Address: Title
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1c96d737c32f49d980e4727af8888fa
+    m_Address: Field
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a549cdf3ba593f540b5d4970861df03b
+    m_Address: Floor2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4bc4e2a841d93446a4a1cdc147e3c08
+    m_Address: Boss
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfdf0d49135be4c43883c69746085aeb
+    m_Address: Floor1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6d5a5e4d1f6f114ba1ff75015258467
+    m_Address: HIkaru
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa93ad0843db945e1bc5a8dbead9d5cb
+    m_Address: Battle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6ae338e6728164d80a129b02d5a68589, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1611e7ed9e0ff4003806a52961e7c63b, type: 2}
+    - {fileID: 11400000, guid: 26d2f4d41f40c4119a4007717dd10fc0, type: 2}

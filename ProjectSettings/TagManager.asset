@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: TilemapBase
+    uniqueID: 1894109783
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 2261653501
+    locked: 0
+  - name: TilemapOverlay
+    uniqueID: 2849935809
+    locked: 0
+  - name: BattleBackground
+    uniqueID: 205891901
+    locked: 0
+  - name: BattleCharacter
+    uniqueID: 1172342375
+    locked: 0
+  m_RenderingLayers:
+  - Default

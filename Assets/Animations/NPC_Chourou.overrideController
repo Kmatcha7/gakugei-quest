@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC_Chourou
+  m_Controller: {fileID: 9100000, guid: 8ba0769f1b2d64102ac2e1648b39ba96, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d981c8b7fd77e4191b371d0855044353, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b85a6dba0ef29496f9d5c1cd9caf6ad4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0f74dd83cd9a948e9bf7ab57a406788b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 36a11c444713447d9a22755a0a2c64fe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 01c9bb23f888b4cb58de67049ebb9481, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c98f5ad7d92942e18ef0b3980ce8a97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 21e8485cdcfe445d9b06856b7a32aee8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d2eb72d073c0942e388154f5dfa529b6, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f8c21a72cbc7408cb0d8b70835d7801, type: 3}
+  m_Name: MagicData_0002
+  m_EditorClassIdentifier: 
+  magicId: 2
+  magicName: "\u30D5\u30A1\u30A4\u30A2"
+  magicDesc: "\u3066\u304D\u306B\u706B\u306E\u7389\u3092\u6295\u3052\u308B"
+  cost: 5
+  magicEffects:
+  - magicCategory: 2
+    effectTarget: 3
+    value: 20
+  unlockFlagName: GetFire

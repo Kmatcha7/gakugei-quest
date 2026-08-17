@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e3c1817eef73492391884804bae905f, type: 3}
+  m_Name: ParameterTable
+  m_EditorClassIdentifier: 
+  characterId: 1
+  parameterRecords:
+  - level: 1
+    hp: 20
+    mp: 3
+    strength: 8
+    guard: 0
+    speed: 6
+  - level: 2
+    hp: 28
+    mp: 6
+    strength: 10
+    guard: 0
+    speed: 7
+  - level: 3
+    hp: 36
+    mp: 9
+    strength: 12
+    guard: 0
+    speed: 8
+  - level: 4
+    hp: 44
+    mp: 12
+    strength: 14
+    guard: 0
+    speed: 9
+  - level: 5
+    hp: 52
+    mp: 15
+    strength: 16
+    guard: 0
+    speed: 10
+  - level: 6
+    hp: 60
+    mp: 18
+    strength: 18
+    guard: 0
+    speed: 11
+  - level: 7
+    hp: 68
+    mp: 21
+    strength: 20
+    guard: 0
+    speed: 12
+  - level: 8
+    hp: 76
+    mp: 24
+    strength: 22
+    guard: 0
+    speed: 13
+  - level: 9
+    hp: 84
+    mp: 27
+    strength: 24
+    guard: 0
+    speed: 14
+  - level: 10
+    hp: 92
+    mp: 30
+    strength: 26
+    guard: 0
+    speed: 15
+  - level: 11
+    hp: 100
+    mp: 33
+    strength: 28
+    guard: 0
+    speed: 16
+  - level: 12
+    hp: 108
+    mp: 36
+    strength: 30
+    guard: 0
+    speed: 17
+  - level: 13
+    hp: 116
+    mp: 39
+    strength: 32
+    guard: 0
+    speed: 18
+  - level: 14
+    hp: 124
+    mp: 42
+    strength: 34
+    guard: 0
+    speed: 19
+  - level: 15
+    hp: 132
+    mp: 45
+    strength: 36
+    guard: 0
+    speed: 20
+  - level: 16
+    hp: 140
+    mp: 48
+    strength: 38
+    guard: 0
+    speed: 21
+  - level: 17
+    hp: 148
+    mp: 51
+    strength: 40
+    guard: 0
+    speed: 22
+  - level: 18
+    hp: 156
+    mp: 54
+    strength: 42
+    guard: 0
+    speed: 23
+  - level: 19
+    hp: 164
+    mp: 57
+    strength: 44
+    guard: 0
+    speed: 24
+  - level: 20
+    hp: 172
+    mp: 60
+    strength: 46
+    guard: 0
+    speed: 25
+  - level: 21
+    hp: 180
+    mp: 63
+    strength: 48
+    guard: 0
+    speed: 26
+  - level: 22
+    hp: 188
+    mp: 66
+    strength: 50
+    guard: 0
+    speed: 27
+  - level: 23
+    hp: 196
+    mp: 69
+    strength: 52
+    guard: 0
+    speed: 28
+  - level: 24
+    hp: 204
+    mp: 72
+    strength: 54
+    guard: 0
+    speed: 29
+  - level: 25
+    hp: 140
+    mp: 75
+    strength: 56
+    guard: 0
+    speed: 30
+  - level: 26
+    hp: 145
+    mp: 78
+    strength: 58
+    guard: 0
+    speed: 31
+  - level: 27
+    hp: 150
+    mp: 81
+    strength: 60
+    guard: 0
+    speed: 32
+  - level: 28
+    hp: 155
+    mp: 84
+    strength: 62
+    guard: 0
+    speed: 33
+  - level: 29
+    hp: 160
+    mp: 87
+    strength: 64
+    guard: 0
+    speed: 34
+  - level: 30
+    hp: 165
+    mp: 90
+    strength: 66
+    guard: 0
+    speed: 35
