@@ -28,7 +28,7 @@ MonoBehaviour:
     - conditionCategory: 1
       comparisonOperator: 5
       turnCriteria: 0
-      hpRateCriteria: 20
+      hpRateCriteria: 50
     magicData: {fileID: 11400000, guid: 4d160971bacd049ab83d04c08b110bc9, type: 2}
     priority: 50
   - enemyActionCategory: 0
