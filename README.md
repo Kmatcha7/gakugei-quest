@@ -7,18 +7,13 @@
 短い時間で楽しめるように２階までの要素を多く詰め込みました。このゲームは２階までのプレイを想定して作っています。
 
 ---
+## 🎥 プレイ動画
 
-## 📷 スクリーンショット
+<a href="https://youtu.be/YqKndU9bmi4">
+  <img src="gakugei-quest-video.png" alt="学芸クエストのプレイ動画" width="700">
+</a>
 
-### タイトル画面
-
-<img width="958" height="538" alt="スクリーンショット 2026-08-19 145743" src="https://github.com/user-attachments/assets/90a59f3b-ff1d-444b-ab1b-04d234348e64" />
-
-
-### 戦闘画面
-
-<img width="1587" height="894" alt="スクリーンショット 2026-08-19 150201" src="https://github.com/user-attachments/assets/5e01e57f-649e-4797-8d7a-433cb83cfcf3" />
-
+画像をクリックすると、約1分のプレイ動画を視聴できます。
 
 ---
 
