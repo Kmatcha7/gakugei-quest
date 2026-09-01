@@ -1,0 +1,89 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SimpleRpg.CharacterData" preserve="all" />
+    <type fullname="SimpleRpg.EncounterData" preserve="all" />
+    <type fullname="SimpleRpg.EnemyData" preserve="all" />
+    <type fullname="SimpleRpg.EventFileData" preserve="all" />
+    <type fullname="SimpleRpg.EventGraphicController" preserve="all" />
+    <type fullname="SimpleRpg.EventGraphicRecord" preserve="all" />
+    <type fullname="SimpleRpg.EventPage" preserve="all" />
+    <type fullname="SimpleRpg.EventPageConditionFlag" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessBattle" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessChangeBoxCollider" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessChangeGold" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessChangeItem" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessChangeNpcDirection" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessChangePlayerDirection" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessCheckGraphic" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessDestroyGameObject" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessFadeIn" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessFadeOut" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessFlag" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessMessage" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessMoveMap" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessMoveNpc" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessMovePlayer" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessObjectDisplay" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessPlayBgm" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessPlaySe" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessRefresh" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessShop" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessShowOption" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessStopBgm" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessSwitchScene" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessTeleportNpc" preserve="all" />
+    <type fullname="SimpleRpg.EventProcessWait" preserve="all" />
+    <type fullname="SimpleRpg.ExpTable" preserve="all" />
+    <type fullname="SimpleRpg.FlagNameData" preserve="all" />
+    <type fullname="SimpleRpg.ItemData" preserve="all" />
+    <type fullname="SimpleRpg.MagicData" preserve="all" />
+    <type fullname="SimpleRpg.MapController" preserve="all" />
+    <type fullname="SimpleRpg.MapData" preserve="all" />
+    <type fullname="SimpleRpg.NpcMover" preserve="all" />
+    <type fullname="SimpleRpg.ParameterTable" preserve="all" />
+    <type fullname="SimpleRpg.MapDataRecord" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.MagicEffect" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.EnemyActionRecord" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.EnemyConditionRecord" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.ItemEffect" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.EnemyRate" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.ExpRecord" preserve="nothing" serialized="true" />
+    <type fullname="SimpleRpg.ParameterRecord" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimatorOverrideController" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.Physics2DModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider2D" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TilemapModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Tilemaps.Tile" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.Tilemap" preserve="all" />
+    <type fullname="UnityEngine.Tilemaps.TilemapRenderer" preserve="all" />
+  </assembly>
+</linker>
