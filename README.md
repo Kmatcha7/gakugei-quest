@@ -16,7 +16,13 @@
 画像をクリックすると、約1分のプレイ動画を視聴できます。
 
 ---
+## 📦 実行ファイル
 
+以下のGoogleドライブからダウンロードできます。
+
+▶ [学芸クエストの実行ファイルをダウンロード](https://drive.google.com/drive/folders/1Y24hegRSvot1eAaBkQ6Qfy2xFVskPn7x?usp=drive_link)
+
+---
 ## 📋 ゲーム情報
 
 | 項目 | 内容 |
